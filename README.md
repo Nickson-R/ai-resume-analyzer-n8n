@@ -25,7 +25,8 @@ AI-powered resume analysis workflow built using n8n, OpenAI, and Google Sheets.
 
 ## Screenshot
 
-<img width="1908" height="893" alt="Ai resume analyzer workflow" src="https://github.com/user-attachments/assets/541b0fab-6424-4562-99b5-03c6c229a85e" />
+<img width="1919" height="901" alt="Ai resume analyzer" src="https://github.com/user-attachments/assets/01c0906e-40ef-4dbb-9c0e-aa1e8c63734f" />
+
 <img width="1489" height="625" alt="google resume analyzer" src="https://github.com/user-attachments/assets/469b511e-b4a3-49aa-ab18-01239eb10911" />
 
 ## Author
