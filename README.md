@@ -1,6 +1,6 @@
 # AI Resume Analyzer using n8n
 
-AI-powered resume analysis workflow built using n8n, OpenAI, and Google Sheets.
+AI-powered resume analysis workflow built using n8n, groqAI, and Google Sheets.
 
 ## Features
 
@@ -13,7 +13,7 @@ AI-powered resume analysis workflow built using n8n, OpenAI, and Google Sheets.
 ## Tech Stack
 
 - n8n
-- OpenAI API
+- Groq AI API
 - Google Sheets
 
 ## Workflow
